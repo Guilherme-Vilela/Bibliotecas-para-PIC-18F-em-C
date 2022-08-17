@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4450 -GC -DL -O11111114 -fo8 -N"C:\Users\guilh\Documents\CEDUP\Eletronica\PIC\LIB_dht11\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\guilh\Documents\CEDUP\Eletronica\PIC\LIB_dht11\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "MyProject.c" "__Lib_DHT11.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 747 [bytes], Available ROM: 16384 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+diagnostics: 93	123	Compiled Successfully	MyProject.c
+diagnostics: 0	122	Compilation Started	__Lib_DHT11.c
+diagnostics: 0	123	Compiled Successfully	__Lib_DHT11.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 41 (5%)  Free RAM (bytes): 706 (95%)	Used RAM (bytes): 41 (5%)  Free RAM (bytes): 706 (95%)
+hint: 0	1144	Used ROM (bytes): 980 (6%)  Free ROM (bytes): 15404 (94%)	Used ROM (bytes): 980 (6%)  Free ROM (bytes): 15404 (94%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+hint: 0	1004	COFF file successfully generated	COFF file successfully generated
+diagnostics: 0	128	Linked in 156 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 437 ms	 
+diagnostics: 0	103	Finished successfully: 01 ago 2022, 18:32:48	MyProject.mcppi

@@ -1,0 +1,16 @@
+main
+	iniciarPWM
+		PWM1_Init
+		PWM2_Init
+		PWM1_Start
+		PWM2_Start
+		PWM1_Set_Duty
+			Mul_16X16_U
+		PWM2_Set_Duty
+			Mul_16X16_U
+		aceleraPWM1
+			PWM1_Set_Duty
+				Mul_16X16_U
+		aceleraPWM2
+			PWM2_Set_Duty
+				Mul_16X16_U
